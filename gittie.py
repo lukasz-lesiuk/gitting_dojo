@@ -9,3 +9,6 @@ def joke():
     print("Its a joke man :)")
 
 add(3, 7)
+
+def shout():
+    print("AUUUUUU!")
